@@ -49,9 +49,10 @@ namespace LOGIN
             // Usuario
             // 
             this.Usuario.AutoSize = true;
+            this.Usuario.ForeColor = System.Drawing.Color.Coral;
             this.Usuario.Location = new System.Drawing.Point(113, 158);
             this.Usuario.Name = "Usuario";
-            this.Usuario.Size = new System.Drawing.Size(58, 17);
+            this.Usuario.Size = new System.Drawing.Size(56, 16);
             this.Usuario.TabIndex = 1;
             this.Usuario.Text = "Nombre";
             // 
@@ -60,7 +61,7 @@ namespace LOGIN
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(113, 242);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(81, 17);
+            this.label2.Size = new System.Drawing.Size(76, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Contraseña";
             this.label2.Click += new System.EventHandler(this.label2_Click);
