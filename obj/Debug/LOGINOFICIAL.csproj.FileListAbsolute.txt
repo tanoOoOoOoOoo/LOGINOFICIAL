@@ -1,0 +1,11 @@
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGINOFICIAL.csproj.AssemblyReference.cache
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGIN.Form1.resources
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGIN.Form2.resources
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGINOFICIAL.Properties.Resources.resources
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGINOFICIAL.csproj.GenerateResource.cache
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGINOFICIAL.csproj.CoreCompileInputs.cache
+C:\Users\cayej\source\repos\LOGINOFICIAL\bin\Debug\LOGINOFICIAL.exe.config
+C:\Users\cayej\source\repos\LOGINOFICIAL\bin\Debug\LOGINOFICIAL.exe
+C:\Users\cayej\source\repos\LOGINOFICIAL\bin\Debug\LOGINOFICIAL.pdb
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGINOFICIAL.exe
+C:\Users\cayej\source\repos\LOGINOFICIAL\obj\Debug\LOGINOFICIAL.pdb
