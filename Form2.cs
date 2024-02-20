@@ -11,6 +11,15 @@ namespace LOGIN
             // Deshabilitar el botón al inicio
             OK.Enabled = false;
         }
+        public string GetTextBox1Value()
+        {
+            return textBox1.Text;
+        }
+
+        public string GetTextBox3Value()
+        {
+            return textBox3.Text;
+        }
 
         private void CheckTextBoxes()
         {
