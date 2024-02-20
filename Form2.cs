@@ -54,14 +54,12 @@ namespace LOGIN
 
         private void OK_Click(object sender, EventArgs e)
         {
-            // Verificar si todos los cuadros de texto están llenos antes de realizar la acción
             if (CheckAllTextBoxesFilled())
             {
-                // Crear una instancia del formulario Form1 y mostrarlo
-                Form2 form1 = new Form2();
-                form1.Show();
-                // O si quieres cerrar el formulario actual al abrir Form1
-                //this.Hide();
+               
+                Form1 Form1 = new Form1();
+                Form1.Show();
+               
             }
         }
 
